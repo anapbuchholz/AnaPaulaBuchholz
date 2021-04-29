@@ -1,4 +1,4 @@
-### Hi there 👋![Ana Paula Buchholz](https://user-images.githubusercontent.com/72575378/116474612-1ac60580-a84f-11eb-8c73-7f19a984f922.png)
+### Olá! 👋![Ana Paula Buchholz](https://user-images.githubusercontent.com/72575378/116474612-1ac60580-a84f-11eb-8c73-7f19a984f922.png)
 
 
 <center>
@@ -11,6 +11,7 @@
 </center>  
 <b><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> AStene#0351</p>
 
-- 🌱 I’m currently learning C#
+Estudante do curso de Análise e Desenvolvimento de Sistemas. Dando os primeiros passos na tecnologia.
+- 🌱 Atualmente aprendendo C#
 
 
