@@ -11,7 +11,7 @@
 </center>  
 <b><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> AStene#0351</p>
 
-- 🌱 Estudante do curso de Análise e Desenvolvimento de Sistemas. 
+- 🌱 Análise e Desenvolvimento de Sistemas. 
 
 
 
