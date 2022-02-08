@@ -1,4 +1,4 @@
-### Olá! Bem-vindx! 🎃🤘🖥👋![Ana Paula Buchholz](https://user-images.githubusercontent.com/72575378/116474612-1ac60580-a84f-11eb-8c73-7f19a984f922.png)
+### Olá! Bem-vindx! 👋![Ana Paula Buchholz](https://user-images.githubusercontent.com/72575378/116474612-1ac60580-a84f-11eb-8c73-7f19a984f922.png)
 
 
 <center>
